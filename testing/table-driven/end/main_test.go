@@ -20,7 +20,7 @@ func TestSum(t *testing.T) {
 		t.Run(tc.name, func(t *testing.T) {
 			got := sum(tc.input...)
 			if got != tc.want {
-				t.Errorf("got %v want %v", tc.input, tc.want)
+				t.Errorf("got %v want %v", got, tc.want)
 			}
 		})
 	}
