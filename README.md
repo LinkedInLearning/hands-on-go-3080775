@@ -3,29 +3,13 @@ This is the repository for the LinkedIn Learning course `Hands On: Go`. The full
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+This repository has all of the examples presented in the videos layed out in the `main` branch. As each video is presented, the examples on screen will indicate which folder/file is being worked on so you can follow along.
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+Folders named `begin` under each topic folder represent the starting point on screen during the videos. Folders named `end` are the complete solutions and examples that you can use to compare with your own solutions or to use as reference.
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+## Working with Codespaces
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
+We encourage you to make use of GitHub Codespaces to code along with the instructor. Simply clone the repository into your own account and launch Codespaces within that repository. This will allow you to make and commit changes to your own copy of the exercises and examples.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
