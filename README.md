@@ -14,6 +14,15 @@ Folders named `begin` under each topic folder represent the starting point on sc
 ## Working with Codespaces
 
 We encourage you to make use of GitHub Codespaces to code along with the instructor. Simply clone the repository into your own account and launch Codespaces within that repository. This will allow you to make and commit changes to your own copy of the exercises and examples.
+
+### Recommended Resources
+
+Level up your Go with the following short list of resources you should check out after completing this course.
+
+- [How to write Go code](https://golang.org/doc/code.html)
+- [Effective Go](https://golang.org/doc/effective_go.html)
+- [Go Wiki](https://github.com/golang/go/wiki)
+
 ### Instructor
 
 Johnny Boursiquot
