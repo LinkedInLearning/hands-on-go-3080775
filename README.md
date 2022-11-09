@@ -22,6 +22,7 @@ Level up your Go with the following short list of resources you should check out
 - [How to write Go code](https://golang.org/doc/code.html)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Wiki](https://github.com/golang/go/wiki)
+- [Using Go Modules](https://go.dev/blog/using-go-modules)
 
 ### Instructor
 
