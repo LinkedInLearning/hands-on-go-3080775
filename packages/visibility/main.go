@@ -5,5 +5,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello Gopher!")
-	// fmt.newPrinter()
+	 //fmt.newPrinter()
 }
