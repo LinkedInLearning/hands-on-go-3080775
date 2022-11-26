@@ -1,4 +1,4 @@
-// concurrency/channels/begin/main.go
+// concurrency/channel-basics/begin/main.go
 package main
 
 import (
