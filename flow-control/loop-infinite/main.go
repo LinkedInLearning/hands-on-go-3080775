@@ -3,5 +3,6 @@ package main
 
 func main() {
 	for {
+		// fmt.Println("infinite")
 	}
 }
