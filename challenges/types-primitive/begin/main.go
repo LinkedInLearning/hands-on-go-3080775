@@ -5,6 +5,7 @@ package main
 
 func main() {
 	// create a local variable "val" and assign it an int value
+	
 
 	// print the value of the local variable "val"
 

@@ -1,10 +1,15 @@
-// challenges/packages/begin/proverbs.go
 package main
 
-// import the proverbs package
+import (
+	"fmt"
 
-// getRandomProverb returns a random proverb from the proverbs package
+	"github.com/jboursiquot/go-proverbs"
+)
+
+func getRandomProverb() string {
+	return proverbs.Random().Saying
+}
 
 func main() {
-	// print the result of calling your getRandomProverb function
+	fmt.Print(getRandomProverb())
 }
